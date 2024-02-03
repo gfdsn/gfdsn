@@ -7,7 +7,7 @@
   ↬ 🌐 A.I. passionate
 
 <p align="left">
-Hey, name's Gui, short for Guilherme. I'm a software developer with passion for web development and artificial intelingence. <br /> <br />
+Hey, name's Gui, short for Guilherme. I'm a software developer with passion for web development and artificial intelligence <br /> <br />
   I love sharing and acquire knowledge at all fields that involve a line of code in order to improve and become better every day. I can build build wep APIs with Laravel and SpringBoot efficiently and as quickly as possible. I can also build fluent and well structured UI/UX interfaces with React. 
 </p>
 
