@@ -12,8 +12,8 @@ Hey, name's Gui, short for Guilherme. I'm a software developer with passion for 
 </p>
 
 ### I can work with
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
-![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) 
+<!--![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) -->
 ![TypeScript](https://img.shields.io/badge/-Typescript-007acc?logo=typescript&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![PHP](https://img.shields.io/badge/-PHP-8993be?logo=php&logoColor=white&style=for-the-badge) 
